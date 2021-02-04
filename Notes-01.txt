@@ -1,0 +1,30 @@
+Data Science Libraries
+- Python Libraries
+- VIsuaul Libriaries in Python
+- High Levle Machine Learning & Deep Learning
+= Dep Learning LIbraries in PYthon
+- Other Langage Libraries
+
+Scientifid Computing Libraries - Frameworks -> Panda (Dat Strucutrues & Tools, 2 dimension table of column & rows / dataframe; built on top of NumPy), NumPy (arrays & matrices)
+
+
+Visual Librairies - Matplotlib (plots, graphs, most popular), Seaborn (heat map, time series & violin plots)
+
+Machine Learning - Scikit-learn (machine learning, regression, classification), Keras (build standard deep learning model, nueral networks, GPUs,)
+
+Deep Learning Libraries - Tensorflow (production & deployment), Pytorch (test ideas)
+
+Apache Spark - process data using structures, parrell, using multiple computers simultaenously - Can use python, R, scala & SQL
+
+Scala Libraries - Vegas (statiscal data visiuialtion), Big DL (big data)
+
+R Libraries - Ggplot 2 (data visualizaiton), interfacing with Keras & Tensor Flow
+
+R is slowly being superceded by Python
+
+
+
+API - lets two pieces of software talk to each other (program - connects to data - connects to other software, interchangeabley)
+- must know inputs & outputs 
+- only refers to interface
+
